@@ -3,14 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NUnit.Framework;
 
-namespace PokerHands
+namespace PokerHands.Tests
 {
-    public enum Suit
+    [TestFixture]
+    public class PokerHandsTests
     {
-        Club,
-        Diamond,
-        Heart,
-        Spade
     }
 }

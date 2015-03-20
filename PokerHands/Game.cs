@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace PokerHands
 {
-    public enum Suit
+    public class Game
     {
-        Club,
-        Diamond,
-        Heart,
-        Spade
     }
 }
